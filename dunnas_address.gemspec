@@ -5,10 +5,10 @@ Gem::Specification.new do |spec|
   spec.version     = DunnasAddress::VERSION
   spec.authors     = ["Isadora Dantas"]
   spec.email       = ["devisaah@gmail.com"]
-  spec.homepage    = "https://github.com/devisaah/dunnas_address"
-  spec.summary     = "Address feature for DunnasCRM."
-  spec.description = "Address featire for DunnasCRM."
-  spec.license     = "MIT"
+  spec.homepage    = "TODO"
+  spec.summary     = "TODO: Summary of DunnasAddress."
+  spec.description = "TODO: Description of DunnasAddress."
+    spec.license     = "MIT"
   
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"
   # to allow pushing to a single host or delete this section to allow pushing to any host.
