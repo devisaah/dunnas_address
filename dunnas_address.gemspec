@@ -23,4 +23,5 @@ Gem::Specification.new do |spec|
   end
 
   spec.add_dependency "rails", ">= 7.0.3"
+  spec.add_dependency "httparty", '~> 0.20.0'
 end
